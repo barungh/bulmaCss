@@ -1,0 +1,28 @@
+{
+  "name": "pro2",
+  "version": "1.0.0",
+  "description": "bulma css practice from Net Ninja channel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barungh/bulma-css-practice.git"
+  },
+  "keywords": [
+    "Bulma",
+    "css",
+    "layout",
+    "ui"
+  ],
+  "author": "Barun Gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barungh/bulma-css-practice/issues"
+  },
+  "homepage": "https://github.com/barungh/bulma-css-practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
